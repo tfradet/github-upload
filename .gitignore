@@ -1,2 +1,4 @@
 # ignore images build folder
-build
+
+build/
+test-build
